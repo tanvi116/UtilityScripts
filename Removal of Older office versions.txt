@@ -1,0 +1,11 @@
+check with custom installation - remove office PDFM component and then verify
+Everything should go from Print route
+PDFmaker should not be invoked.
+Ribbon should not come.
+Check by changing registry manually.
+Think of edge cases.
+Ask Basma about code changes.
+Check with 2 Office installations.
+2003 --- A11 >... Now install A12 
+
+Mail Mridula !
